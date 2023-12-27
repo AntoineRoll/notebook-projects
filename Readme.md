@@ -8,5 +8,7 @@ I share my favorite vizualisations in this homepage but there is much more to di
 
 ## Main open-data sources
 ## Mini projects highlights
+### French sport memberships
+![Sample viz](./fr_sport_memberships/outputs/fr_sport_memberships_sample.png)
 ## Open datasets used
 ## Python dependencies
