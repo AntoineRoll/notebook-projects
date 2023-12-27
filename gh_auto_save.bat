@@ -30,10 +30,7 @@ git add %folder%
 
 REM Commit changes
 set "commitMessage=Auto commit for %1 - %date% %time%"
-git commit %folder% -m "%commitMessage%"
-git commit Readme.md -m "%commitMessage%"
-git commit .gitignore -m "%commitMessage%"
-git commit gh_auto_save.bat -m "%commitMessage%"
+git commit %folder% Readme.md .gitignore gh_auto_save.bat -m "%commitMessage%"
 git push
 
 echo Files committed successfully.
