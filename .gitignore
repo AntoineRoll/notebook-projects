@@ -1,0 +1,49 @@
+# Ignore files and directories created by Jupyter Notebook
+*.ipynb_checkpoints
+*.ipynb_versions
+
+# Ignore output files from Jupyter Notebook
+outputs
+
+# Ignore intermediate files from Jupyter Notebook
+*.pyc
+__pycache__
+
+# Ignore environment variables
+.env
+
+# Ignore package-related files
+*.egg
+*.whl
+
+# Ignore requirement files
+requirements.txt
+
+# Ignore test files
+test/
+
+# Ignore documentation files
+docs/
+
+# Ignore virtual environment directories
+venv/
+
+# Ignore large data files
+*.csv
+*.xlsx
+*.xls
+!*/outputs/*.pdf
+!*/outputs/*.html
+*.docx
+*.pptx
+*.mp3
+*.wav
+*.png
+!*/outputs/*.png
+!*/outputs/*.jpg
+!*/outputs/*.jpeg
+*.gif
+*.avi
+*.mov
+*.mp4
+*.mkv
