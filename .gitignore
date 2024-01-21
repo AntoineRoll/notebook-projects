@@ -29,3 +29,6 @@ venv/
 # Ignore data files
 */data/*
 */raw_data/*
+
+# Ignore geckodriver logs
+*/geckodriver.log
