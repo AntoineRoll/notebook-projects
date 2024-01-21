@@ -10,5 +10,9 @@ I share my favorite vizualisations in this homepage but there is much more to di
 ## Mini projects highlights
 ### French sport memberships
 ![Sample viz](./fr_sport_memberships/outputs/fr_sport_memberships_sample.png)
+
+### Train travelers in French cities
+![Sample viz](./fr_train_stations/outputs/fr_train_travelers_by_city.png)
+
 ## Open datasets used
 ## Python dependencies
