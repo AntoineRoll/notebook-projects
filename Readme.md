@@ -14,5 +14,8 @@ I share my favorite vizualisations in this homepage but there is much more to di
 ### Train travelers in French cities
 ![Train travelers in French cities viz](./fr_train_stations/outputs/fr_train_travelers_by_city.png)
 
+### Yams agent scores distribution
+![Yams Agent scores distribution histogram](./yams/outputs/scores_distribution_YamsT1T_median_YamsT1EC.jpg)
+
 ## Open datasets used
 ## Python dependencies
